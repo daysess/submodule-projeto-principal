@@ -1,0 +1,3 @@
+[submodule "biblioteca"]
+	path = biblioteca
+	url = https://github.com/daysess/biblioteca-submodulo.git
