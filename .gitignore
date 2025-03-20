@@ -1,0 +1,30 @@
+# Ignorar arquivos compilados e cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+
+# Ignorar configurações do editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignorar arquivos de dependências
+dist/
+build/
+*.egg-info/
+
+# Ignorar arquivos de logs e temporários
+*.log
+*.tmp
+
+# Ignorar arquivos do Jupyter Notebook
+debug.log
+.ipynb_checkpoints/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db

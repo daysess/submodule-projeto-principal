@@ -1,3 +1,9 @@
 [submodule "biblioteca"]
 	path = biblioteca
 	url = https://github.com/daysess/biblioteca-submodulo.git
+[submodule "biblioteca2/modulo_exemplo"]
+	path = biblioteca2/modulo_exemplo
+	url = https://github.com/daysess/submodule-projeto-principal.git
+[submodule "modulo_exemplo3"]
+	path = modulo_exemplo3
+	url = https://github.com/daysess/submodule-projeto-principal.git
